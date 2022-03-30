@@ -40,7 +40,7 @@ from typing import List
 import math
 import numpy as np
 
-from linear_algebra import sum_of_squares, dot
+from byscratch.linear_algebra import sum_of_squares, dot
 
 # Data
 num_friends = [100.0,49,41,40,25,21,21,19,19,18,18,16,
